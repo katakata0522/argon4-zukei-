@@ -1,0 +1,6 @@
+{
+  "name": "空間ラボ 3D — 算数・理社のつまずきを突破する3D体感学習スタジオ",
+  "description": "展開図の組み立て、立体の切断、等高線と地形の断面、地層とボーリング柱状図を3Dと連動2D図解で直感的に学べるインタラクティブ学習スタジオ。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
